@@ -15,7 +15,7 @@ I'm [Alberto Revuelta](https://kamiyuzu.github.io/), a passionate Junior Softwar
 
 ---
 
-- 🔭 I’m currently working on being more sympathetic!
+- 🔭 I’m currently working on being more empathetic!
 - 🌱 I’m currently learning Elixir.
 - 👯 I’m looking to collaborate on Elixir.<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about cats, food, tech.
