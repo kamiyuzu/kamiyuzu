@@ -19,8 +19,8 @@ I'm [Alberto Revuelta](https://kamiyuzu.github.io/), a passionate Junior Softwar
 - 🌱 I’m currently learning Elixir.
 - 👯 I’m looking to collaborate on Elixir.<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about cats, food, tech.
-- 📫 How to reach me: [@hiimkamiyuzu](https://twitter.com/hiimkamiyuzu);
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [@hiimkamiyuzu](https://twitter.com/hiimkamiyuzu).
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: crazy old cat lady WIP.
 
 ---
