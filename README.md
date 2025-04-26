@@ -2,24 +2,26 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 I'm [Alberto Revuelta Arribas](https://kamiyuzu.github.io/), a passionate Software Engineer from Madrid, Spain 🚀
 
-<a href="https://twitter.com/hiimkamiyuzu">
-  <img align="left" alt="hiimkamiyuzu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://x.com/hiimkamiyuzu">
+  <img align="left" alt="hiimkamiyuzu | Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/alberto-r-386745145/">
-  <img align="left" alt="Alberto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Alberto's LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" />
 </a>
+<img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=kamiyuzu&repo=kamiyuzu&countColor=%2348205d" alt="visitor count" width="80"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/kamiyuzu?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kamiyuzu.github.io/)](https://kamiyuzu.github.io/)
-![](https://visitor-badge.glitch.me/badge?page_id=kamiyuzu.kamiyuzu)
+<!---![](https://api.visitorbadge.io/api/VisitorHit?user=kamiyuzu&repo=kamiyuzu&countColor=%2348205d) --->
 
 ---
 
 - 🔭 I’m currently working on being more empathetic!
-- 🌱 I’m currently learning Elixir.
-- 👯 I’m looking to collaborate on Elixir.<!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning Cloud tooling, Federated machine learning.
+- 👯 I’m looking to collaborate on Elixir.
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about cats, food, tech.
-- 📫 How to reach me: [@hiimkamiyuzu](https://twitter.com/hiimkamiyuzu).
+- 📫 How to reach me: [@hiimkamiyuzu](https://x.com/hiimkamiyuzu).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: crazy old cat lady WIP.
 
