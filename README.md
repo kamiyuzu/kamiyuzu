@@ -17,8 +17,8 @@ I'm [Alberto Revuelta Arribas](https://kamiyuzu.github.io/), a passionate Softwa
 ---
 
 - 🔭 I’m currently working on being more empathetic!
-- 🌱 I’m currently learning Cloud tooling, Federated machine learning.
-- 👯 I’m looking to collaborate on Elixir.
+- 🌱 I’m currently learning Cloud tooling, Federated machine learning and edge networking.
+<!-- - 👯 I’m looking to collaborate on Elixir. -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about cats, food, tech.
 - 📫 How to reach me: [@hiimkamiyuzu](https://x.com/hiimkamiyuzu).
